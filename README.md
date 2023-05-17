@@ -1,9 +1,10 @@
 Multi purpose DiscordBot made with love by BLG.
 This bot is not fully ready yet and wil keep growing, also if you find any bug feel free to let me know or fix it yourselves.
 
+Live preview: https://atom-bot.xyz/
 ----------
 
-Make a new file in the settings folder called "Private.json", then add below content.
+Make a new file in the Settings folder called "Private.json", then add below content.
 ```
 {
     "token": "BOT_TOKEN",
