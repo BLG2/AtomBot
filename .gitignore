@@ -1,0 +1,5 @@
+/.vscode
+/node_modules
+/Settings/Private.json
+/package-lock.json
+/TicketTranscriptions/*
