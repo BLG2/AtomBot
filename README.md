@@ -4,7 +4,7 @@ This bot is not fully ready yet and wil keep growing, also if you find any bug f
 ----------
 
 Make a new file in the settings folder called "Private.json", then add below content.
-
+<sup> 
 {
     "token": "BOT_TOKEN",
     "ownerID": "YOUR_DISCORD_ID",
@@ -20,3 +20,5 @@ Make a new file in the settings folder called "Private.json", then add below con
         "c99": "API.C99.NL_API_KEY"
     }
 }
+</sup>
+
