@@ -1,9 +1,10 @@
 Multi purpose DiscordBot made with love by BLG.
 This bot is not fully ready yet and wil keep growing, also if you find any bug feel free to let me know or fix it yourselves.
 
-Website code wil be online soon.
+[Website Code](https://github.com/BLG2/AtomBotWeb)
 
-Live preview: https://atom-bot.xyz/
+[Live preview](https://atom-bot.xyz/)
+
 ----------
 
 Make a new file in the Settings folder called "Private.json", then add below content.
