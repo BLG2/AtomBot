@@ -1,4 +1,4 @@
-# AtomBotWeb
+# AtomBot
 Multi purpose DiscordBot made with love by BLG.
 
 This bot is not fully ready yet and wil keep growing, also if you find any bug feel free to let me know or fix it yourselves.
