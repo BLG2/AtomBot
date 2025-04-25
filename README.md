@@ -1,10 +1,7 @@
 # AtomBot (old version)
+## this bot is an outdated version and has already been rewrited in .NET C# (code stil private) see [Updated Discord Bot](https://github.com/BLG2/AtomBotWeb) for the updated discord bot
 Multi purpose DiscordBot made with love by BLG.
-
-## this bot is an older version and has already been rewrited (code stil pivate) in .NET C# see [Updated Discord Bot](https://github.com/BLG2/AtomBotWeb) for the rewrited version
-
 ----------
-
 Make a new file in the Settings folder called "Private.json", then add below content.
 ```
 {
