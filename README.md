@@ -7,8 +7,6 @@ This bot is not fully ready yet and wil keep growing, also if you find any bug f
 
 [Website Code](https://github.com/BLG2/AtomBotWeb)
 
-[Live preview](https://atom-bot.xyz/)
-
 ----------
 
 Make a new file in the Settings folder called "Private.json", then add below content.
