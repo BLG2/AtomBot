@@ -1,7 +1,7 @@
 ## AtomBot (old version)
 Multi purpose DiscordBot made with love by BLG.
 
-#this bot is an older version and has already been rewrited (code stil pivate) in .NET C# see [Updated Discord Bot](https://github.com/BLG2/AtomBotWeb) for the rewrited version
+# this bot is an older version and has already been rewrited (code stil pivate) in .NET C# see [Updated Discord Bot](https://github.com/BLG2/AtomBotWeb) for the rewrited version
 
 This bot is not fully ready yet and wil keep growing, also if you find any bug feel free to let me know or fix it yourselves.
 
